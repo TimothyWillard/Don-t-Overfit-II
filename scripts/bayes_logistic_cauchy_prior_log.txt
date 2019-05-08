@@ -1,0 +1,46 @@
+Sequential sampling (1 chains in 1 job)
+CompoundStep
+>BinaryGibbsMetropolis: [xi]
+>NUTS: [beta, coeff_shape, alpha]
+The acceptance probability does not match the target. It is 0.999212516232218, but should be close to 0.8. Try to increase the number of tuning steps.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+Only one chain was sampled, this makes it impossible to run some convergence checks
+Sequential sampling (1 chains in 1 job)
+CompoundStep
+>BinaryGibbsMetropolis: [xi]
+>NUTS: [beta, coeff_shape, alpha]
+The acceptance probability does not match the target. It is 0.9978674182729131, but should be close to 0.8. Try to increase the number of tuning steps.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+Only one chain was sampled, this makes it impossible to run some convergence checks
+Sequential sampling (1 chains in 1 job)
+CompoundStep
+>BinaryGibbsMetropolis: [xi]
+>NUTS: [beta, coeff_shape, alpha]
+The acceptance probability does not match the target. It is 0.988401141665847, but should be close to 0.8. Try to increase the number of tuning steps.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+Only one chain was sampled, this makes it impossible to run some convergence checks
+Sequential sampling (1 chains in 1 job)
+CompoundStep
+>BinaryGibbsMetropolis: [xi]
+>NUTS: [beta, coeff_shape, alpha]
+The acceptance probability does not match the target. It is 0.9858356907576997, but should be close to 0.8. Try to increase the number of tuning steps.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+Only one chain was sampled, this makes it impossible to run some convergence checks
+Sequential sampling (1 chains in 1 job)
+CompoundStep
+>BinaryGibbsMetropolis: [xi]
+>NUTS: [beta, coeff_shape, alpha]
+The acceptance probability does not match the target. It is 0.9715287640745612, but should be close to 0.8. Try to increase the number of tuning steps.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+Only one chain was sampled, this makes it impossible to run some convergence checks
+Sequential sampling (1 chains in 1 job)
+CompoundStep
+>BinaryGibbsMetropolis: [xi]
+>NUTS: [beta, coeff_shape, alpha]
+The acceptance probability does not match the target. It is 0.9951159181917736, but should be close to 0.8. Try to increase the number of tuning steps.
+The chain reached the maximum tree depth. Increase max_treedepth, increase target_accept or reparameterize.
+Only one chain was sampled, this makes it impossible to run some convergence checks
+Sequential sampling (1 chains in 1 job)
+CompoundStep
+>BinaryGibbsMetropolis: [xi]
+>NUTS: [beta, coeff_shape, alpha]
